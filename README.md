@@ -137,12 +137,8 @@ int main() {
 }
 ~~~
 
-
-
 ## Output:
-<img width="821" height="505" alt="image" src="https://github.com/user-attachments/assets/32a48b90-0862-461d-988c-a1117b37f481" />
-
-
+<img width="590" height="299" alt="image" src="https://github.com/user-attachments/assets/5e296c6a-b2f4-4924-a594-a5fb3aebe91b" />
 
 ## Result:
  The program is executed successfully.
